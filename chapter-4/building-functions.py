@@ -12,3 +12,5 @@ print(x)
 
 # use it
 print_lyrics()
+
+# note: input() is a built-in function
