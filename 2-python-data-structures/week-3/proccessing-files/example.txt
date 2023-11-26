@@ -1,0 +1,5 @@
+Enter the file name: mbox.txt
+There were 1797 subject lines in mbox.txt
+
+Enter the file name nã na boo boo
+File cannot be opened: na na boo boo
